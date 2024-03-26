@@ -6,6 +6,6 @@
 ## Team Members:
 1. Michael Chun
 2. Teja Vegesna
-3. 
+3. Dylan Ladd
 
 ## Problem Description
