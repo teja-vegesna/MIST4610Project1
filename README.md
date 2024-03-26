@@ -7,5 +7,6 @@
 1. Michael Chun
 2. Teja Vegesna
 3. Dylan Ladd
+4. Michael Kushnerick
 
 ## Problem Description
