@@ -5,7 +5,7 @@
 
 ## Team Members:
 1. Michael Chun
-2. Teja
+2. Teja Vegesna
 3. 
 
 ## Problem Description
