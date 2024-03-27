@@ -16,4 +16,9 @@ The task that we have been assigned is to build a relational database of our soc
 ![image](https://github.com/hajirushi/MIST4610Project1/assets/123567332/600cb642-9a95-4f2d-a9c6-d8bf5b29c2cf)
 
 ### Data Dictionary
+![image](https://github.com/hajirushi/MIST4610Project1/assets/163002852/a1eaacbc-da48-4df0-ac85-913331a9a40e)
+![image](https://github.com/hajirushi/MIST4610Project1/assets/163002852/2cc07b17-9bfd-45e7-b73a-2af6f16874a2)
+![image](https://github.com/hajirushi/MIST4610Project1/assets/163002852/5bc5cc50-1b3d-4868-812e-08d7c5b43d62)
+
+
 
