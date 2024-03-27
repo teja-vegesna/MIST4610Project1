@@ -29,7 +29,7 @@ Explanation of the data model:
 ![image](https://github.com/hajirushi/MIST4610Project1/assets/163002852/4664cb04-2828-4835-a0b1-cc7c0885b4b5)
 
 ## Queries:
-
+**Green = Complex** **Yellow = Simple**
 ![image](https://github.com/hajirushi/MIST4610Project1/assets/163002852/51d3efc8-40dd-438b-8610-9fa54adb5943)
 
 
