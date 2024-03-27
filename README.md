@@ -6,7 +6,7 @@
 ## Team Members:
 1. Michael Chun https://github.com/hajirushi
 2. Teja Vegesna https://github.com/teja-vegesna
-3. Dylan Ladd https://github.com/DylanLaddUGA
+3. Dylan Ladd (https://github.com/DylanLaddUGA)
 4. Michael Kushnerick https://github.com/michaelkushnerick
 5. Pratik Patel https://github.com/PratikPatel4444
 
