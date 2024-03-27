@@ -29,10 +29,15 @@ Explanation of the data model:
 ![image](https://github.com/hajirushi/MIST4610Project1/assets/163002852/4664cb04-2828-4835-a0b1-cc7c0885b4b5)
 
 ## Queries:
-1.)Query 1 lists the name of all the players that are present on the soccer team for the team “Puppies”. Along with all the soccer players' names is the position that each individual plays.
+1.) Query 1 lists the name of all the players that are present on the soccer team for the team “Puppies”. Along with all the soccer players' names is the position that each individual plays.
 ![image](https://github.com/hajirushi/MIST4610Project1/assets/163002852/581c931c-624f-4c7a-8505-25116617ee64)
 
 Query 1 allows the manager to get a grasp on this team as a whole. It allows the manager to accurately line up the name of the player with the position that they play. This can be crucial in the development of a soccer team. This data would be beneficial in areas such as injury management (which player would replace another), team chemistry (which players play best with each other), and strategic planning. All this data is fundamental for a soccer team to be successful.
+
+2.) Query 2 lists physiotherapists first name and the amount of sessions that they participated in from the dates 1-1-2021 to 03-25-2023.
+![image](https://github.com/hajirushi/MIST4610Project1/assets/163002852/9bcab232-aa21-44d5-9ef8-9cda97d256d1)
+Query 2 allows for the manager to see the most impactful and resourceful physiotherapists. This is valuable information that could be used in the hiring and firing process based on a team’s needs. By ordering the count in descending the manager can quickly analyze the number of times that a physiotherapist conducted a session. The data was pulled from a 2-year period to ensure that the data may not be inaccurate or misrepresentative of the value of the physiotherapist.
+
 
 
 
