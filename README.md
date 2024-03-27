@@ -50,6 +50,15 @@ Query 3 allows team managers to get a grasp on which equipment sets are most fre
 Query 4 givesthe manager a good overview of the staff. By providing the manager with the overview of a staff the manager can make important decisions about the staff (raises, firings, hirirngs etc.)
 
 
+5.) Query 5 displays the amount of yellow cards and red cards that each player has obtained for the season if they have at least one 1 Yellow Card and less than or equal to 1 red card.
+![image](https://github.com/hajirushi/MIST4610Project1/assets/163002852/54dbf8e6-d586-4f55-ba45-b9a074864b50)
+Query 5 would be useful to a manager of a soccer club because they would know which players they need to manage regarding discipline monitoring, player management and tactical considerations. If a player gets multiple yellows in a game then a player will get a red card resulting in their ejection for the rest of the match (and possibly half of the second match depending when the red card was given). By having access to a player's yellow and red card data it can help prevent a key player from being tossed out during an important match.
+
+
+6.)Retrieve the details of players who are members and belong to teams with a skill level of 'Advanced'.
+![image](https://github.com/hajirushi/MIST4610Project1/assets/163002852/d9badf01-75e3-4b1c-becc-6c120a0befdc)
+**Whoever wrote 6 give an explanation - I would but I do not know what to write for this query.**
+
 
 
 ## Database Information:
