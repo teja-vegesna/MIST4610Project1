@@ -34,10 +34,15 @@ Explanation of the data model:
 
 Query 1 allows the manager to get a grasp on this team as a whole. It allows the manager to accurately line up the name of the player with the position that they play. This can be crucial in the development of a soccer team. This data would be beneficial in areas such as injury management (which player would replace another), team chemistry (which players play best with each other), and strategic planning. All this data is fundamental for a soccer team to be successful.
 
+
 2.) Query 2 lists physiotherapists first name and the amount of sessions that they participated in from the dates 1-1-2021 to 03-25-2023.
 ![image](https://github.com/hajirushi/MIST4610Project1/assets/163002852/9bcab232-aa21-44d5-9ef8-9cda97d256d1)
 Query 2 allows for the manager to see the most impactful and resourceful physiotherapists. This is valuable information that could be used in the hiring and firing process based on a team’s needs. By ordering the count in descending the manager can quickly analyze the number of times that a physiotherapist conducted a session. The data was pulled from a 2-year period to ensure that the data may not be inaccurate or misrepresentative of the value of the physiotherapist.
 
+
+3.) Query 3 lists  the percentage of all training sessions that are advanced and further sorts  into the different equipment sets used for each training session. 
+![image](https://github.com/hajirushi/MIST4610Project1/assets/163002852/f6388979-be67-4ba3-b805-db7d53e022e5)
+Query 3 allows team managers to get a grasp on which equipment sets are most frequently used, providing important information for budgeting and resource allocation. Since different skill levels have differing training schedules, it is also important to further filter by team skill level to better accommodate for the different teams needs. This will help save costs by focusing funds on the more frequently used sets. In addition, based on team performance, coaches can change up training sessions to focus on weak points found in matches.
 
 
 
