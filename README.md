@@ -6,7 +6,7 @@
 ## Team Members:
 1. Michael Chun 
 2. Teja Vegesna
-3. Dylan Ladd
+3. Dylan Ladd https://github.com/DylanLaddUGA
 4. Michael Kushnerick
 5. Pratik Patel
 
