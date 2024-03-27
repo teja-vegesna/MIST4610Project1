@@ -4,12 +4,12 @@
 47114 Group 2
 
 ## Team Members:
-1. Michael Chun (https://github.com/hajirushi)
-2. Teja Vegesna (https://github.com/teja-vegesna)
-3. Dylan Ladd (https://github.com/DylanLaddUGA)
-4. Michael Kushnerick (https://github.com/michaelkushnerick)
+1. Michael Chun [@hajirushi](https://github.com/hajirushi)
+2. Teja Vegesna [@teja-vegesna](https://github.com/teja-vegesna)
+3. Dylan Ladd [@DylanLaddUGA](https://github.com/DylanLaddUGA)
+4. Michael Kushnerick [@michaelkushnerick](https://github.com/michaelkushnerick)
 5. Pratik Patel [@PratikPatel4444](https://github.com/PratikPatel4444) 
-6. Kyle O'Connor (https://github.com/kyleoconnor5) 
+6. Kyle O'Connor [@kyleoconnor5](https://github.com/kyleoconnor5) 
 
 ## Problem Description:
 The task that we have been assigned is to build a relational database of our soccer club. While we as the audience may only see the players and the match, there are numerous factors behind the scenes that are responsible for the overall management of a soccer club. The central entity of our data model is the team itself, which works with other entities such as players, coaches, staff, sponsors, training, league and opponents as the core components allowing the team to function. We are interested in modeling the relationships between the numerous entities, as well as generating sample data for the attributes in our entities. We also are engaged in developing functional queries that will allow us to gather information on the club to allow for increased performance where the team may need it. 
