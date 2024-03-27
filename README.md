@@ -55,9 +55,27 @@ Query 4 givesthe manager a good overview of the staff. By providing the manager 
 Query 5 would be useful to a manager of a soccer club because they would know which players they need to manage regarding discipline monitoring, player management and tactical considerations. If a player gets multiple yellows in a game then a player will get a red card resulting in their ejection for the rest of the match (and possibly half of the second match depending when the red card was given). By having access to a player's yellow and red card data it can help prevent a key player from being tossed out during an important match.
 
 
-6.)Retrieve the details of players who are members and belong to teams with a skill level of 'Advanced'.
+6.) Retrieve the details of players who are members and belong to teams with a skill level of 'Advanced'.
 ![image](https://github.com/hajirushi/MIST4610Project1/assets/163002852/d9badf01-75e3-4b1c-becc-6c120a0befdc)
 **Whoever wrote 6 give an explanation - I would but I do not know what to write for this query.**
+
+
+7.) Query 7  lists the  playerID, player’s first and last name, what position they play, and the amount of goals and assists they have recorded if they have scored more than 1 goal and have more than 2 assists
+![image](https://github.com/hajirushi/MIST4610Project1/assets/163002852/7eefce37-f6bc-4543-9ca3-55c93a21f991)
+Query 7 would allow the manager of the soccer team to see the potential of a player based upon their most important statistics (goals and assists). This data could be used in numerous circumstances, whether the manager is trying to recruit a player to join their team for the next season (phone) , or to establish a game plan against the player if they are on the opposing team. 
+
+
+8.) Query 8 lists out the facilities that hosted matches between 2 different dates (2022-01-01 and 2023-01-01), and the number of matches played
+![image](https://github.com/hajirushi/MIST4610Project1/assets/163002852/5aeac634-60d4-4b20-9001-8bff01f71fa9)
+Query 8 allows the manager to get an insight about where the matches will take place. The manager can then determine hotel and traveling expenses that are needed. Along with the frequency the manager can then use the location (facilityName) of the stadium and determine whether the game will be home or away.
+
+9.) Query 9 displays the fee amount and the number of memberships that each fee amount has.
+![image](https://github.com/hajirushi/MIST4610Project1/assets/163002852/c360a796-99a0-4a38-b663-087a7dda3e5d)
+**Query 9 - Same thing as query 6**
+
+10.) Query 10  will give us a list of players who have never been to a physiotherapy session and whose first names do not start with a vowel.
+![image](https://github.com/hajirushi/MIST4610Project1/assets/163002852/10c937ce-cc18-4940-b304-4283f30d1bef)
+**Question 10 - same as query 6 **
 
 
 
