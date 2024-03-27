@@ -8,7 +8,7 @@
 2. Teja Vegesna (https://github.com/teja-vegesna)
 3. Dylan Ladd (https://github.com/DylanLaddUGA)
 4. Michael Kushnerick (https://github.com/michaelkushnerick)
-5. Pratik Patel (https://github.com/PratikPatel4444) @PratikPatel4444
+5. Pratik Patel (https://github.com/PratikPatel4444) "@PratikPatel4444"
 6. Kyle O'Connor (https://github.com/kyleoconnor5) 
 
 ## Problem Description:
