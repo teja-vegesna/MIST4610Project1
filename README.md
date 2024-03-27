@@ -64,7 +64,8 @@ Query 4 givesthe manager a good overview of the staff. By providing the manager 
 
 5.) Query 5 displays the amount of yellow cards and red cards that each player has obtained for the season if they have at least one 1 Yellow Card and less than or equal to 1 red card.
 
-![image](https://github.com/hajirushi/MIST4610Project1/assets/163002852/54dbf8e6-d586-4f55-ba45-b9a074864b50)
+![image](https://github.com/hajirushi/MIST4610Project1/assets/163002852/01f7293f-3922-4fc4-92ef-11acf86913af)
+
 
 Query 5 would be useful to a manager of a soccer club because they would know which players they need to manage regarding discipline monitoring, player management and tactical considerations. If a player gets multiple yellows in a game then a player will get a red card resulting in their ejection for the rest of the match (and possibly half of the second match depending when the red card was given). By having access to a player's yellow and red card data it can help prevent a key player from being tossed out during an important match.
 
@@ -96,9 +97,8 @@ Query 8 allows the manager to get an insight about where the matches will take p
 
 Query 9 is important because a manager might be interested in data that reveals the fee amounts and the corresponding number of memberships for each fee amount, to assess and refine the club's membership pricing strategy. This information can guide the manager in adjusting membership fees to better match the market demand, potentially increasing membership numbers and overall club revenue. It can also aid in financial forecasting and budgeting by providing insights into expected revenue streams from memberships.
 
-10.) Query 10  will give us a list of players who have never been to a physiotherapy session and whose first names do not start with a vowel.
-![image](https://github.com/hajirushi/MIST4610Project1/assets/163002852/10c937ce-cc18-4940-b304-4283f30d1bef)
-**Question 10 - same as query 6 **
+10.)
+
 
 
 
