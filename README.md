@@ -73,7 +73,8 @@ Query 5 would be useful to a manager of a soccer club because they would know wh
 
 ![image](https://github.com/hajirushi/MIST4610Project1/assets/163002852/d9badf01-75e3-4b1c-becc-6c120a0befdc)
 
-**Whoever wrote 6 give an explanation - I would but I do not know what to write for this query.**
+Query 6 would be useful because a  manager would be interested in retrieving the details of players who are members of teams with a skill level of 'Advanced' to identify top talent within the organization and ensure they are receiving the appropriate level of training and development. These players are likely the ones who contribute significantly to the team's performance.
+
 
 
 7.) Query 7  lists the  playerID, player’s first and last name, what position they play, and the amount of goals and assists they have recorded if they have scored more than 1 goal and have more than 2 assists
@@ -93,7 +94,7 @@ Query 8 allows the manager to get an insight about where the matches will take p
 
 ![image](https://github.com/hajirushi/MIST4610Project1/assets/163002852/c360a796-99a0-4a38-b663-087a7dda3e5d)
 
-**Query 9 - Same thing as query 6**
+Query 9 is important because a manager might be interested in data that reveals the fee amounts and the corresponding number of memberships for each fee amount, to assess and refine the club's membership pricing strategy. This information can guide the manager in adjusting membership fees to better match the market demand, potentially increasing membership numbers and overall club revenue. It can also aid in financial forecasting and budgeting by providing insights into expected revenue streams from memberships.
 
 10.) Query 10  will give us a list of players who have never been to a physiotherapy session and whose first names do not start with a vowel.
 ![image](https://github.com/hajirushi/MIST4610Project1/assets/163002852/10c937ce-cc18-4940-b304-4283f30d1bef)
