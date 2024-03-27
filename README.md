@@ -19,6 +19,10 @@ The task that we have been assigned is to build a relational database of our soc
 ![image](https://github.com/hajirushi/MIST4610Project1/assets/163002852/a1eaacbc-da48-4df0-ac85-913331a9a40e)
 ![image](https://github.com/hajirushi/MIST4610Project1/assets/163002852/2cc07b17-9bfd-45e7-b73a-2af6f16874a2)
 ![image](https://github.com/hajirushi/MIST4610Project1/assets/163002852/5bc5cc50-1b3d-4868-812e-08d7c5b43d62)
+![image](https://github.com/hajirushi/MIST4610Project1/assets/163002852/bdd22c07-7cb3-4af3-b1f8-14079d0d3c70)
+![image](https://github.com/hajirushi/MIST4610Project1/assets/163002852/1e080d7e-094c-4c20-9c0f-a444f403f791)
+
+
 
 
 
