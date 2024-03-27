@@ -6,7 +6,7 @@
 ## Team Members:
 1. Michael Chun
 2. Teja Vegesna
-3. Dylan Ladd @DylanLaddUGA
+3. Dylan Ladd
 4. Michael Kushnerick
 5. Pratik Patel
 
