@@ -4,9 +4,9 @@
 47114 Group 2
 
 ## Team Members:
-1. Michael Chun
+1. Michael Chun 
 2. Teja Vegesna
-3. Dylan Ladd
+3. Dylan Ladd @DylanLaddUGA
 4. Michael Kushnerick
 5. Pratik Patel
 
