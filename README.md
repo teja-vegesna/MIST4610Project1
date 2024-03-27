@@ -45,6 +45,12 @@ Query 2 allows for the manager to see the most impactful and resourceful physiot
 Query 3 allows team managers to get a grasp on which equipment sets are most frequently used, providing important information for budgeting and resource allocation. Since different skill levels have differing training schedules, it is also important to further filter by team skill level to better accommodate for the different teams needs. This will help save costs by focusing funds on the more frequently used sets. In addition, based on team performance, coaches can change up training sessions to focus on weak points found in matches.
 
 
+4.) Query 4 lists out all staff members first and last names along with their phone number, teamName, and roles, it further sorts the staff members to show only the ones that work with the highest rated teams.
+![image](https://github.com/hajirushi/MIST4610Project1/assets/163002852/add79e7a-1a05-47f6-b0e2-41cc19dc19c2)
+Query 4 givesthe manager a good overview of the staff. By providing the manager with the overview of a staff the manager can make important decisions about the staff (raises, firings, hirirngs etc.)
+
+
+
 
 ## Database Information:
 Name of the database: ns_Sp24_47114_Group2
