@@ -29,6 +29,11 @@ Explanation of the data model:
 ![image](https://github.com/hajirushi/MIST4610Project1/assets/163002852/4664cb04-2828-4835-a0b1-cc7c0885b4b5)
 
 ## Queries:
+
+![image](https://github.com/hajirushi/MIST4610Project1/assets/163002852/51d3efc8-40dd-438b-8610-9fa54adb5943)
+
+
+
 1.) Query 1 lists the name of all the players that are present on the soccer team for the team “Puppies”. Along with all the soccer players' names is the position that each individual plays.
 
 ![image](https://github.com/hajirushi/MIST4610Project1/assets/163002852/581c931c-624f-4c7a-8505-25116617ee64)
