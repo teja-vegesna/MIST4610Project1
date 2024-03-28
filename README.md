@@ -36,13 +36,11 @@ Finally, there is the match entity which is connected to player stats and facili
 
 
 ### Data Dictionary:
-![image](https://github.com/hajirushi/MIST4610Project1/assets/163002852/a1eaacbc-da48-4df0-ac85-913331a9a40e)
-![image](https://github.com/hajirushi/MIST4610Project1/assets/163002852/2cc07b17-9bfd-45e7-b73a-2af6f16874a2)
-![image](https://github.com/hajirushi/MIST4610Project1/assets/163002852/5bc5cc50-1b3d-4868-812e-08d7c5b43d62)
-![image](https://github.com/hajirushi/MIST4610Project1/assets/163002852/bdd22c07-7cb3-4af3-b1f8-14079d0d3c70)
-![image](https://github.com/hajirushi/MIST4610Project1/assets/163002852/1e080d7e-094c-4c20-9c0f-a444f403f791)
-![image](https://github.com/hajirushi/MIST4610Project1/assets/163002852/b24d260b-137b-4009-9709-3f613ca6fdf5)
-![image](https://github.com/hajirushi/MIST4610Project1/assets/163002852/4664cb04-2828-4835-a0b1-cc7c0885b4b5)
+![image](https://github.com/hajirushi/MIST4610Project1/assets/123567332/41dc2e68-195a-4d3b-a8a7-8bcedc80094c)
+![image](https://github.com/hajirushi/MIST4610Project1/assets/123567332/8cc0303c-9966-43cb-a1d3-6472ab3af417)
+![image](https://github.com/hajirushi/MIST4610Project1/assets/123567332/95b6603b-5b60-4c24-b14b-c8ab313a1b82)
+![image](https://github.com/hajirushi/MIST4610Project1/assets/123567332/d833a7a6-d23b-43a3-979a-b6cfb784f8bc)
+
 
 ## Queries:
 **Green = Complex**        **Yellow = Simple**
