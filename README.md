@@ -14,7 +14,7 @@
 ## Problem Description:
 The task that we have been assigned is to build a relational database of our soccer club. While we as the audience may only see the players and the match, there are numerous factors behind the scenes that are responsible for the overall management of a soccer club. The central entity of our data model is the team itself, which works with other entities such as players, coaches, staff, sponsors, training, league and opponents as the core components allowing the team to function. We are interested in modeling the relationships between the numerous entities, as well as generating sample data for the attributes in our entities. We also are engaged in developing functional queries that will allow us to gather information on the club to allow for increased performance where the team may need it. 
 
-**##Explanation of our data model:**
+## Explanation of our data model:
 
 Our model is founded on the structure of all the major components that make up a soccer club. Starting off with the equipment entity, which contains a one to many relationship with equipment sessions. The equipment is vital for players to be able to train, but also vital for them to play in matches, such as shin guards and goalie gloves. This is demonstrated through a one to many 
 relationship because there can be multiple sessions where one piece of equipment can be used.
