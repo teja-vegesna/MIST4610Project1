@@ -118,7 +118,7 @@ Query 9 is important because a manager might be interested in data that reveals 
 
 ![image](https://github.com/hajirushi/MIST4610Project1/assets/163002852/818b625a-d6fd-4adc-bf89-5b0a90bef9df)
 
-Query 10 is useful for a manager because this data displays the player ID, player's name, date of birth, and agent's name, to have a comprehensive overview of player representation and age distribution within the team. This information is crucial for contract negotiations, ensuring compliance with league age regulations, and planning for future team compositions. By knowing the agents, the manager can directly engage with them for discussions about player contracts, welfare, and potential transfers.
+Query 10 is useful for a manager because this data displays the player ID, player's name, date of birth, and agent's name, to have a comprehensive overview of player representation and age distribution within the team. The query was written in a way that a manager could access the younger players (2001) and thus have a younger team and more youth to work with .This information is crucial for contract negotiations, ensuring compliance with league age regulations, and planning for future team compositions. By knowing the agents, the manager can directly engage with them for discussions about player contracts, welfare, and potential transfers. 
 
 
 
