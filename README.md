@@ -46,7 +46,8 @@ Finally, there is the match entity which is connected to player stats and facili
 
 ## Queries:
 **Green = Complex**        **Yellow = Simple**
-![image](https://github.com/hajirushi/MIST4610Project1/assets/163002852/51d3efc8-40dd-438b-8610-9fa54adb5943)
+![image](https://github.com/hajirushi/MIST4610Project1/assets/163002852/7e52ecbd-df05-48bb-a5ad-d17a1b3f6cbd)
+
 
 
 
