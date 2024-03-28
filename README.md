@@ -95,9 +95,9 @@ Query 6 would be useful because a  manager would be interested in retrieving the
 
 
 
-7.) Query 7  lists the  playerID, player’s first and last name, what position they play, and the amount of goals and assists they have recorded if they have scored more than 1 goal and have more than 2 assists
+7.) Query 7  lists the  playerID, player’s first and last name, what position they play, and the amount of goals and assists they have recorded if they have scored more than 1 goal and have more than 2 assists if it is greater or equal to the average of all scored
 
-![image](https://github.com/hajirushi/MIST4610Project1/assets/163002852/7eefce37-f6bc-4543-9ca3-55c93a21f991)
+![image](https://github.com/hajirushi/MIST4610Project1/assets/123567332/f9ff3d02-4181-4fcc-86b7-15ac6417d420)
 
 Query 7 would allow the manager of the soccer team to see the potential of a player based upon their most important statistics (goals and assists). This data could be used in numerous circumstances, whether the manager is trying to recruit a player to join their team for the next season (phone) , or to establish a game plan against the player if they are on the opposing team. 
 
