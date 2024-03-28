@@ -113,7 +113,10 @@ Query 8 allows the manager to get an insight about where the matches will take p
 
 Query 9 is important because a manager might be interested in data that reveals the fee amounts and the corresponding number of memberships for each fee amount, to assess and refine the club's membership pricing strategy. This information can guide the manager in adjusting membership fees to better match the market demand, potentially increasing membership numbers and overall club revenue. It can also aid in financial forecasting and budgeting by providing insights into expected revenue streams from memberships.
 
-10.)
+10.) Query 10 displays the playerID, players name, player's DOB and agents name
+![image](https://github.com/hajirushi/MIST4610Project1/assets/163002852/818b625a-d6fd-4adc-bf89-5b0a90bef9df)
+
+
 
 
 
