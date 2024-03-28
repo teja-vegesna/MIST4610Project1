@@ -30,7 +30,7 @@ The player entity is one of the most central entities in the data model. Without
 Finally, there is the match entity which is connected to player stats and facility both through one to many relationships. There are multiple player stats that can be recorded during a singular match, which explains the relationship between these two. Match and facility also have a one to many relationship because multiple matches can take place in the same facility.
 
 
-Explanation of the data model:
+Picture of the data model:
 
 ![image](https://github.com/hajirushi/MIST4610Project1/assets/123567332/600cb642-9a95-4f2d-a9c6-d8bf5b29c2cf)
 
