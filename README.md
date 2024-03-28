@@ -14,6 +14,22 @@
 ## Problem Description:
 The task that we have been assigned is to build a relational database of our soccer club. While we as the audience may only see the players and the match, there are numerous factors behind the scenes that are responsible for the overall management of a soccer club. The central entity of our data model is the team itself, which works with other entities such as players, coaches, staff, sponsors, training, league and opponents as the core components allowing the team to function. We are interested in modeling the relationships between the numerous entities, as well as generating sample data for the attributes in our entities. We also are engaged in developing functional queries that will allow us to gather information on the club to allow for increased performance where the team may need it. 
 
+##Explanation of our data model:
+
+Our model is founded on the structure of all the major components that make up a soccer club. Starting off with the equipment entity, which contains a one to many relationship with equipment sessions. The equipment is vital for players to be able to train, but also vital for them to play in matches, such as shin guards and goalie gloves. This is demonstrated through a one to many 
+relationship because there can be multiple sessions where one piece of equipment can be used.
+
+Moving on to the training session entity which is connected to session equipment, team, and facility. All 3 of these relationships are demonstrated through a one to many relationship.For every training session, there is some sort of equipment that is being used, and this is represented in the one to many relationship between training sessions and session equipment. The one to many relationship with team is because one team can have multiple training sessions. Typically most teams hold multiple training sessions within one day. For this same reason, there is a one to many relationship between facility and training session, as multiple training sessions can occur within one facility. 
+
+The team entity is connected to staff, players and training sessions, and all carry a one to many relationship. There are multiple members of staff who end up working for one team, which explains the one to many relationship. This includes janitors, coaches, equipment staff and so on. The team entity’s one to many relationship with players is due to the fact that there are singular teams that contain multiple players. 
+
+The staff entity is also connected to the staff type entity, demonstrated by the one to many relationship. There can be many staff types that work for one staff. Example staff types like medical and training are separate, but they still both work for one staff. The staff entity is also connected to the physiotherapy session entity through a one to many relationship. A staff member can have multiple physiotherapy sessions. The physiotherapy session has a one to many relationship with players for the same reason, as one player can have multiple physiotherapy sessions.
+
+The player entity is one of the most central entities in the data model. Without the players, there cannot be a team. The player entity is connected to player stats, physiotherapy sessions, membership, team, and agent. Playerstats are connected to players through a one to many relationship, and this is because one player can have multiple types of player stats such as goals and assists. Between agents and players, there is a one to many relationship because it is possible for agents to have multiple players that they work for. There is a one to one relationship between players and membership. Players can only have one particular membership, there cannot be multiple memberships for one player, which is why this is highlighted as a one to one relationship.
+
+Finally, there is the match entity which is connected to player stats and facility both through one to many relationships. There are multiple player stats that can be recorded during a singular match, which explains the relationship between these two. Match and facility also have a one to many relationship because multiple matches can take place in the same facility.
+
+
 Explanation of the data model:
 
 ![image](https://github.com/hajirushi/MIST4610Project1/assets/123567332/600cb642-9a95-4f2d-a9c6-d8bf5b29c2cf)
