@@ -1,4 +1,4 @@
-# Team 2 MIST4610Project1
+# Soccer Club Datamodel Build
 
 ## Team Name:
 47114 Group 2
